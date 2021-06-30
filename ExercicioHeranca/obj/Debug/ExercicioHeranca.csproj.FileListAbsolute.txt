@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\bin\Debug\ExercicioHeranca.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\bin\Debug\ExercicioHeranca.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\bin\Debug\ExercicioHeranca.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\obj\Debug\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\obj\Debug\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\obj\Debug\ExercicioHeranca.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioHeranca\obj\Debug\ExercicioHeranca.pdb

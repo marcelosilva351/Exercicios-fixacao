@@ -1,0 +1,15 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.deps.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.runtimeconfig.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.runtimeconfig.dev.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ref\ExercicioArquivo.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\bin\Debug\net5.0\ExercicioArquivo.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ref\ExercicioArquivo.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivo\obj\Debug\net5.0\ExercicioArquivo.genruntimeconfig.cache

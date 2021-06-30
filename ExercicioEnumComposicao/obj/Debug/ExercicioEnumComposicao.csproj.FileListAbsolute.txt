@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.pdb

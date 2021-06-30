@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\bin\Debug\ExercicioRevisao.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\bin\Debug\ExercicioRevisao.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\bin\Debug\ExercicioRevisao.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\obj\Debug\ExercicioExcecoes.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\obj\Debug\ExercicioExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\obj\Debug\ExercicioRevisao.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioRevisao\obj\Debug\ExercicioRevisao.pdb

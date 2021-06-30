@@ -1,0 +1,15 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.deps.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.runtimeconfig.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.runtimeconfig.dev.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\ref\Arquivo4.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\bin\Debug\net5.0\Arquivo4.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\ref\Arquivo4.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Arquivo4\obj\Debug\net5.0\Arquivo4.genruntimeconfig.cache

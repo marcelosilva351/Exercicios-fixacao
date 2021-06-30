@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\bin\Debug\ExercicioMetodosAbstratos.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\bin\Debug\ExercicioMetodosAbstratos.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\bin\Debug\ExercicioMetodosAbstratos.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\obj\Debug\ExercicioMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\obj\Debug\ExercicioMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\obj\Debug\ExercicioMetodosAbstratos.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioMetodosAbstratos\obj\Debug\ExercicioMetodosAbstratos.pdb

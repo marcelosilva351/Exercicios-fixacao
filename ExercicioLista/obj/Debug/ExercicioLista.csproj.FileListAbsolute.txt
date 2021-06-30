@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\bin\Debug\ExercicioLista.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\bin\Debug\ExercicioLista.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\bin\Debug\ExercicioLista.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\obj\Debug\ExercicioLista.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\obj\Debug\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\obj\Debug\ExercicioLista.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioLista\obj\Debug\ExercicioLista.pdb

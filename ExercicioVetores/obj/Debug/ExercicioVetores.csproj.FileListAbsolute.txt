@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\bin\Debug\ExercicioVetores.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\bin\Debug\ExercicioVetores.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\bin\Debug\ExercicioVetores.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\obj\Debug\ExercicioVetores.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\obj\Debug\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\obj\Debug\ExercicioVetores.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioVetores\obj\Debug\ExercicioVetores.pdb

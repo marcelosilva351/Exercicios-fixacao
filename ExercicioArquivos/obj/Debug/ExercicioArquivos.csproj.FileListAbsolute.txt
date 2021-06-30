@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\bin\Debug\ExercicioArquivos.exe.config
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\bin\Debug\ExercicioArquivos.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\bin\Debug\ExercicioArquivos.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\obj\Debug\ExercicioArquivos.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\obj\Debug\ExercicioArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\obj\Debug\ExercicioArquivos.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\ExercicioArquivos\obj\Debug\ExercicioArquivos.pdb

@@ -1,0 +1,15 @@
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.exe
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.deps.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.dev.json
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\ref\Excecoes.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\bin\Debug\net5.0\Excecoes.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\ref\Excecoes.dll
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.pdb
+C:\Users\Basis Tecnologia\source\repos\RevisaoExEmDiante\Excecoes\obj\Debug\net5.0\Excecoes.genruntimeconfig.cache

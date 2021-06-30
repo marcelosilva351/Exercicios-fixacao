@@ -1,0 +1,234 @@
+olhar codigos até exceções
+
+ARQUIVOS
+
+FILE E FILEINFO -
+classes basicas para ultilização de arquivos
+e ajuda na criação de objetos FileStream
+
+A classe File é mais simples pois tem os membros staticos
+mais simples, mas ela realiza uma operação de segurança para cada operação
+
+
+FileInfo - 
+Precisa instaciar um objeto, esse objeto ja vai estar atrelado ao arquivo que voce abrir, seu programa fica mais rapido
+
+programa simples - File
+programa que exige muitas operações - FileInfo
+
+
+IOException - superclasse de todas as exceções possivel de quando for trabalhar com arquivo
+DirectortNotFound
+DriveNotFound
+EndofStream
+...
+...
+
+
+Começando com arquivos - 
+NameSpace System.Io;
+
+criando arquivo file1.txt
+
+criando string com o caminho do arquivo 
+string caminho = @"c:\temp\file1.txt";
+string caminhoDestino = @"c:\temp\file2.txt";
+
+
+tudo que formos mexer no arquivo vamos colocar em um bloco try
+vamos usar um catch com IOException para pegar qualquer erro que ocorrer
+
+
+Instanciando objeto fileInfo -
+Fileinfo fileInfo = new FileInfo(caminho);
+
+agora com o fileInfor instanciado podemos usar varias operações com este arquivo que passamos como parametro
+
+podemos usar o copyTo(caminhoDestino);
+agora ele vai criar o arquivo com o destino que passamos na string e vai criar um novo arquivo que é uma copia do nosso caminho
+
+agora se rodarmos o programa novamente Vai dar um erro que o arquivo file2.txt ja existe
+
+criando um vetor de strings podemos intanciar um File, tem uma propriedade ReadAllLine()
+
+com este array guardando todas as linhas do meu arquivos podemos usar um foreach que para ler essas linhas 
+
+FILESTREAM E STREAMREADER -
+
+Classe que disponibiliza um stream(dados simultanos) associada a um arquivo, permitindo operações de entrada e saida(leitura e escrita)
+ela encapsula a intaciação de um objeto com um arquivo para entrada e saida
+
+ele trabalha com dados binarios e pode ser instaciada com construtores ou com as classes file e fileinfo
+
+O streamReader é uma stream capaz de ler caracteres a partir de uma stream binaria(a partir de um filestream)
+
+o fileStream é nossa stream binaria e  streamReader interpreta ela com caracteres, pode ser instaciada com construtores ou File e FileInfo
+
+
+na pratica:
+
+criando uma string com o caminho 
+podems declarar um FileStream
+
+FileStream fileStream = null;
+StreamReader sr = null;
+
+então precisamos primeiro instaciar um FileStream e depois instaciar o StreamReader com o fileStream
+
+dentro do bloco try vamos usar um construtor do FileStream
+
+fileStream = new FileStream(caminho,FileMode.open());
+
+este construtor primeiro parametro é uma string com o caminho do arquivo
+a segunda é o modo que vamos usar esta FileStream, no caso vamos usar o FileMode para abrir o arquivo
+o FileMode temos alguns metodos, vamos usar o open, mas tem o append para escrita no fim do arquivo e outros...
+
+agora com o nosso FileStream vamos instaciar nosso StreamReader
+
+sr = new StreamReader(fs);
+
+com nossa StreamReader instaciada podemos usar varios metodos por exemplos ler uma linha do arquivo 
+
+string linhna - sr.ReadLine();
+console.WriteLine(line);
+
+importante: essas stream não sao gerenciadas pelo CRL do .NET, então precisamos fechalos manualmente, vmaos aprender agora a forma mais manual possivel depois vamos aprender mais facil
+
+precisamos colocar o fechamento em um bloco finally
+
+finally
+{
+if(sr != null){
+sr.close();
+} 
+if(fs != null){
+fl.close();
+}
+}
+
+
+geralmente a maioria das linguagens trabalham assim
+uma stream mais generica e uma stream pra algo especifico
+existem maneiras mais resumidas para intanciarmos o fileStream
+
+podemos instanciar a streamReader com auxilio da classe File
+
+sr = File.OpenText();
+ele ja intancia um fileStream em cima do nosso streamReader
+
+podemos por um while(!sr.EndOfStream){
+
+string line = sr.readLine();
+console.WriteLine(line);
+
+
+USING BLOCK -
+sintaxe simplficiada que garante que objetos !Disposible(objetos não gerenciados pelo CRL) vão ser fechados
+
+ex de objetos: Font,FileStream,StreamReader,StreamWriter
+
+vamos usar o bloco using para instanciar nossas streams
+
+using(FileStream fileStream = new FileStream(caminho, FileMode.Open)) {
+
+}
+
+tudo que colocamos no bloco using vai ser executado e depois quando sair do bloco ja vai ser fechado
+
+podemos colocar um outro bloco using dentro de outro bloco using 
+por exemplo:
+
+using(FileStream fileStream = new FileStream(caminho, FileMode.Open)) {
+	using(StreamReader streamReader = new StreamReader(fileStream){
+
+	while(!streamReader.EndOfStream) {
+
+	string linha = streamReader.readLine();
+	cw(linha);
+	}
+}
+}
+
+
+podemos colocar este bloco using dentro de um try-catch para podermos tratar as exceções que podemos acontecer
+
+mas estamos usando 2 blocos using, podemos usar aquela forma simplificada que ja vimos
+de instaciar o StreamReader usando o auxilio do File.openText(caminho);
+e assim vamos usar apenas 1 bloco using
+
+
+STREAMWRITER -
+Stream capaz de escrever caracteres a partir de uma stream binaria
+ou seja primeiro instaciamos um FileStream depois um streamWriter
+
+na pratica:
+criando 2 strings com caminho do arquivo, e caminho destino
+vamos salvar oq tem no arquivo 1 tudo em maisculo pro arquivo 2
+
+lendo todas as linhas
+
+string[] lines = File.ReadAllLines(caminho);
+
+using (StreamWriter sw = File.AppendText()) 
+este File.AppendText ja faz  streamWriter associado ao arquivo que ele vai escrever
+agora é so fazer um foreach nas linhas e passar o streamWriter.writeLine;
+
+
+DIRECTORY, DIRECTORYINFO -
+classes que fornecem operações com pastas
+
+Directy - operações de estatica
+
+DirectoryInfo = objeto 
+
+mesmo raciocionio do File e FileInfo
+
+
+na pratica:
+criando uma parte com 2 pastas dentro e 2 arquivos
+e dentro dessas 2 pastas mais 2 arquivos em cada 1
+
+
+definimos a string de caminho apontando pro diretorio dessa pasta
+
+Directory.EnumerateDirectories(caminho, mascara de busca (*.*), searchoption.allDirectories);
+
+o resultado vai ser uma coleção Ienurable que vai ter os strings com o nome dos arquivos
+
+IEnurable<string> folder = Diretory.EnumerateDirectories(caminho,"*.*",searchOption.alldIRECOTIRES);
+
+dando um for each vamos ter o caminho de todos os arquivos dentro da nossa paste
+
+assim pegamos todas as subpastas em dentro da pasta que está no nosso caminho
+
+e para listarmos todos os arquivos dentro de uma pasta vai ser a mesma coisa porem com o directory.enumerateFiles(caminho,mascaraDebusca,alldirectorys);
+
+agora vamos ver todos os arquivos, inclusive os que estão dentro das subpastas
+
+para criar uma pasta é so chamar a classe directory.createDirectory(caminho nova pasta);
+
+
+CLASSE PATH -
+realiza operações com strigs que contem informações de arquivos ou pastas
+
+
+com uma string caminho ate o file1.txt
+
+podemos usar o Path.GetDirectoryName(caminho));
+
+vai pegar apenas o caminho do arquivo até a paste
+
+path.directorySeparatorChar - mostra o caracter de separação no windows é o '\'
+
+Path.PathSeparator - mostra o caracter que separa caracter diferentes
+
+path.getFileName(path) pega o nome do arquivo
+
+path.getFileNameWithoutExtention - vai retornar apenas o file1 no nosso caso
+
+path.GetExtention(path) - retornaria o .txt
+
+path.getFullpath(path) - vai mostrar nosso caminho completo
+
+
+
